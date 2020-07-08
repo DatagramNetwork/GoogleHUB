@@ -1,5 +1,5 @@
 # GoogleHUB
-Google Hub Hack (tear down)
+Google Home Hub Hack (tear down) model: GA00516-GB
 
 Under bottom cover there is micro USB and what does look UART interfece.
 
