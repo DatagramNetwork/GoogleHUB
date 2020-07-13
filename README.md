@@ -9,7 +9,7 @@ Fingerprint driver: GOODIX GT9293 1803-B1AD  17AF0900 E7R931XD08 https://www.ves
 Panel Display: CHIMEI INNOLUX P070ACB-DB1 https://www.lcds-display.com/products/P070ACB-DB1_CHIMEI-INNOLUX.html
 Same panel as in Lenovo Tab 2.
 
-Processor: @AMLOGIC https://dn.odroid.com/S905/DataSheet/S905_Public_Datasheet_V1.1.4.pdf
+Processor: S905 @AMLOGIC https://dn.odroid.com/S905/DataSheet/S905_Public_Datasheet_V1.1.4.pdf
 
 CPU Architecture
 o Quad core ARM Cortex-A53 CPU up to 2.0GHz (DVFS)
