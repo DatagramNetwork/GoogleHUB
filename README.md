@@ -45,4 +45,5 @@ RAM:  2 x Nanya NT5CC256M16ER-EK DDR3L SDRAM 4Gbit https://www.nanya.com/en/Prod
       2 x Nanya NT5CC128M16JR-EK DDR3L SDRAM 2Gbit
 
 Network WiFi Chipset: Broadcom BCM43458FKRFBG
+
 NAND EPROM TC58NVG2S0HBAI6 NAND Flash 3.3V 4Gb 24nm SLC NAND (EEPROM) https://eu.mouser.com/ProductDetail/Kioxia-America/TC58NVG2S0HBAI6?qs=Fobv33ltQGgqKBBw4VRhjA==
